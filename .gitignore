@@ -1,0 +1,5 @@
+# ephemeral
+*.log
+.DS_Store
+.vscode/
+.idea/
